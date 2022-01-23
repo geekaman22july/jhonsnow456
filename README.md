@@ -35,8 +35,18 @@
 
 ## :octocat: Github Stats 
 
-  ![Aman Thakur's stats](https://github-readme-stats.vercel.app/api?username=jhonsnow456&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsnow456&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Last Month's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhonsnow456&bg_color=000000&color=ccffe9&line=00ff59&point=ff8585&area=true&hide_border=true&theme=react-dark&custom_title=Last%2031%20days%20Contributions%20Graph)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsnow456&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true)
+|<img src="https://github-readme-stats.vercel.app/api?username=jhonsnow456&&show_icons=true&&hide_border=false&&theme=blue-green&&count_private=true&locale=en"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonsnow456&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
+|---|---|
+<!-- ### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jhonsnow456" alt="jhonsnow456" />
+  </a> 
+</p> -->
+
 
 
 
