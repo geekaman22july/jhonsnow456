@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanthakur4561" target="blank"><img src="https://img.shields.io/twitter/follow/amanthakur4561?logo=twitter&style=for-the-badge" alt="amanthakur4561" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning Models](https://github.com/jhonsnow456/Machine_Learning_Models)
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
@@ -46,7 +46,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jhonsnow456" alt="jhonsnow456" />
   </a> 
 </p> -->
-
-
-
-
